@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    text-align: center;
+}
+h1 {
+    color: violet;
+    background-color: blue;
+}
